@@ -2,7 +2,7 @@
 
 Hello👋🏼 I'm Aman Kapoor (I go by **BugBot7000** here)
 
-I'm a **Game Programmer**🧮 and **Producer**📝;
+I'm a **Game Programmer**🧮;
 
 * 🛠️ I love to write gameplay systems, engine tools and UI code, the fewer google search results about a programming challenge, the better !
 * 👯 I’m looking to collaborate on all sorts of games ( always fun to dive into a new codebase)
