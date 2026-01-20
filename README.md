@@ -4,7 +4,7 @@ Hello👋🏼 I'm Aman Kapoor (I go by **BugBot7000** here)
 
 I'm a **Game Programmer**🧮;
 
-* 🛠️ I love to work on UI, write systems and play run games on absurd display resolutions. Engine based problems and challenges are fun ! The fewer google search results about a programming challenge, the better !
+* 🛠️ I love to work on UI, write systems and play games on absurd display resolutions. Engine based problems and challenges are fun ! The fewer google search results about a programming challenge, the better !
 * 👯 I’m looking to collaborate on all sorts of games ( always fun to dive into a new codebase)
 * 🌐 I also have a personal website which you can visit at [amankapoor.xyz](amankapoor.xyz "amankapoor.xyz")
 
